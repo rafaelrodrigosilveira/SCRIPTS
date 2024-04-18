@@ -1,0 +1,1 @@
+net use g: \\servidor\pasta

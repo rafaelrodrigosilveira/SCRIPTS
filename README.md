@@ -9,10 +9,13 @@ Atualizado em: 18/04/2024
 -----------------------------------------------------------------------------------------
 										MS-DOS
 -----------------------------------------------------------------------------------------
-script_install_Senior.bat => script que instala o ERP Senior e suas dependências;
+Backup arquivos simples
+desligar computador
+mapeamento pasta rede
+merge_updates_sql
 mestre operacao dominio => script que mostra qual servidor gerencia o dominio;
-
-
+mysql_db_backup
+scandisk
 
 -----------------------------------------------------------------------------------------
 									  POWERSHELL
