@@ -39,8 +39,12 @@ script_abrir_atualização
 -----------------------------------------------------------------------------------------
 										LINUX
 -----------------------------------------------------------------------------------------
-menu_simples
-
+Backup MySQL Enviando por FTP
+backup_diferencial_compactacao
+backup_diferencial
+backup_full
+menu_shellscript
+script-backup-mysql
 
 
 -----------------------------------------------------------------------------------------
