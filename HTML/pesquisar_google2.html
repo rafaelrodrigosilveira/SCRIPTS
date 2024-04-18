@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Minha página</title>
+  <style>
+    #google {
+      background-image: linear-gradient(to right, #4285F4, #34A853, #FBBC05, #EA4335);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    form {
+      border: 1px solid black;
+      padding: 10px;
+      background-color: white;
+    }
+  </style>
+</head>
+<body>
+  <form action="https://www.google.com/search" method="get" target="_blank">
+    <label for="search"><span id="google">G</span><span id="google">o</span><span id="google">o</span><span id="google">g</span><span id="google">l</span><span id="google">e</span>: </label>
+    <input type="text" id="search" name="q" placeholder="Digite aqui...">
+    <button type="submit">Pesquisar</button>
+  </form>
+</body>
+</html>
