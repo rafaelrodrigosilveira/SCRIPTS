@@ -51,6 +51,7 @@ backup_full
 menu_shellscript
 script-backup-mysql
 screen
+backup_site_mysql
 
 -----------------------------------------------------------------------------------------
 									    MACOS-X
