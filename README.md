@@ -47,6 +47,12 @@ menu_simples
 									    MACOS-X
 -----------------------------------------------------------------------------------------
 uninstall_anaconda3
+priorizar_backup_macbook
+desinstalar_line_intercafe_tools
+desinstalar_xcode
+limpar memoria RAM Macbook
+uninstall_playonmac
+uninstall_xquartz
 
 -----------------------------------------------------------------------------------------
 									    HTML
