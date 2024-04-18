@@ -21,9 +21,8 @@ scandisk
 									  POWERSHELL
 -----------------------------------------------------------------------------------------
 
-windows 8_10_11 OTIMIZACAO (POWERSHELL).ps1 => script que otimiza o windows 8, 10 e 11, 
-removendo programas e serviços inúteis;
-
+windows 8_10_11 OTIMIZACAO (POWERSHELL).ps1 => script que otimiza o windows 8, 10 e 11.
+windows10_Debloater
 
 
 -----------------------------------------------------------------------------------------
