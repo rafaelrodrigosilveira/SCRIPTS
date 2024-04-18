@@ -34,6 +34,9 @@ bloqueiaCD-ROM
 bloqueiaFloppy
 bloqueiaPendrive
 bloqueiaSFloppy
+liberarCD-ROM
+liberarPendrive
+liberarSFloppy
 remover_impressoras_locais
 remover_xps
 script mapeamento em rede
