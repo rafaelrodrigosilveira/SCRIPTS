@@ -4,7 +4,7 @@
 
 RAFAEL RODRIGO SILVEIRA
 Criado em: 20/03/2022
-Atualizado em: 18/04/2024
+Atualizado em: 25/11/2024
 
 -----------------------------------------------------------------------------------------
 										MS-DOS
@@ -52,6 +52,7 @@ menu_shellscript
 script-backup-mysql
 screen
 backup_site_mysql
+Verifica_hardware
 
 -----------------------------------------------------------------------------------------
 									    MACOS-X
