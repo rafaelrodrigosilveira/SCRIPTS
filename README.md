@@ -4,7 +4,7 @@
 
 RAFAEL RODRIGO SILVEIRA
 Criado em: 20/03/2022
-Atualizado em: 25/11/2024
+Atualizado em: 06/03/2025
 
 -----------------------------------------------------------------------------------------
 										MS-DOS
@@ -16,6 +16,7 @@ merge_updates_sql
 mestre operacao dominio => script que mostra qual servidor gerencia o dominio;
 mysql_db_backup
 scandisk
+script_excluir_arquivos_antigos
 
 -----------------------------------------------------------------------------------------
 									  POWERSHELL
